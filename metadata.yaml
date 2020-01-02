@@ -1,0 +1,30 @@
+_repo: Le-petit-neveu-de-Grecourt-ou-Etrennes-gaillardes-Recueil-de-Contes-en-vers-reimprimes-sur-l-__60896
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Liseux, Isidore
+    alias: Liseaux, Isidore
+    birthdate: 1835
+    deathdate: 1894
+    gutenberg_agent_id: '40737'
+    url: http://www.gutenberg.org/2009/agents/40737
+    wikipedia: https://fr.wikipedia.org/wiki/Isidore_Liseux
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Séduction et libertinage
+gutenberg_issued: '2019-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60896'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic poetry, French'
+- !lcc 'PQ'
+- GITenberg
+title: "Le petit-neveu de Grécourt, ou, Étrennes gaillardes\r\nRecueil de Contes en\
+  \ vers, réimprimés sur l'édition de 1782"
+url: http://www.gutenberg.org/ebooks/60896
