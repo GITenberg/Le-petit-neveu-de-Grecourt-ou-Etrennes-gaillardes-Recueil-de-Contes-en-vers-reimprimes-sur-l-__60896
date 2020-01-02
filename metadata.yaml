@@ -1,5 +1,8 @@
 _repo: Le-petit-neveu-de-Grecourt-ou-Etrennes-gaillardes-Recueil-de-Contes-en-vers-reimprimes-sur-l-__60896
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60896-h/images/cover.jpg
 creator:
   editor:
     agent_name: Liseux, Isidore
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40737
     wikipedia: https://fr.wikipedia.org/wiki/Isidore_Liseux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60896#Le-petit-neveu-de-Grecourt-ou-Etrennes-gaillardes-Recueil-de-Contes-en-vers-reimprimes-sur-l-_
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Séduction et libertinage
